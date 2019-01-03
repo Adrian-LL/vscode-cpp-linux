@@ -40,6 +40,7 @@
             "label": "build & debug CLANG",
             "type": "shell",
             "command": "clang++",
+            //standard options - to be updated
             "args": [
                 "-g",
                 "-o",
